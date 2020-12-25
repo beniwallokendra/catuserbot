@@ -35,7 +35,7 @@ async def amireallyalive(alive):
             f"<b>{EMOJI} Catuserbot Version :</b> <code>{catversion}</code>\n"
         )
         cat_caption += f"<b>{EMOJI} Database :</b> <code>{check_sgnirts}</code>\n\n"
-        cat_caption += "    <a href = https://github.com/sandy1709/catuserbot><b>GoodCat</b></a> | <a href = https://github.com/Jisan09/catuserbot><b>BadCat</b></a> | <a href = https://t.me/catuserbot_support><b>Support</b></a>"
+        cat_caption += "    <a href = https://t.me/beniwallokendra><b>master</b></a> | <a href = https://www.instagram.com/loki_meme_wallah/><b>BadCat</b></a>    "
         await alive.client.send_file(
             alive.chat_id,
             CAT_IMG,
